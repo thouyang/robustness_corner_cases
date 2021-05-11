@@ -7,7 +7,7 @@ Corner cases are a set of high-risk data in deep learning (DL) systems, which co
 To study corner cases' influence on DL models' robustness and stability, this research is implemented with corner case description and detection,
  as well as DL model's robustness analysis, as shown below. 
 
-![DL robustness analysis](images/robustness_analysis_with_cc.png)
+![DL robustness analysis](images/robustness_analysis_with_cc.PNG)
 
 Firstly, a corner case descriptor based on surprise adequacy was introduced for corner case data detection, its high values are proved useful to reflect incorrect behaviors in classification. 
 Then, based on the proposed corner case descriptor, training dataset was updated by removing data having high possibility to be corner case, and utilized for model retraining. A practical robustness analysis method was applied to measure the robustness radius of both the original and the retrained DL models. 
