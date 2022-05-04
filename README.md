@@ -1,6 +1,6 @@
 # AI robustness analysis with consideration of corner cases
 
-If you find this code helpful, please consider to cite our paper "AI robustness analysis with consideration of corner cases"
+If you find this code helpful, please consider to cite our paper "[AI robustness analysis with consideration of corner cases](https://ieeexplore.ieee.org/abstract/document/9564324/)"
 
 ## Introduction
 Corner cases are a set of high-risk data in deep learning (DL) systems, which could lead to incorrect and unexpected behaviors. 
@@ -48,6 +48,6 @@ python main.py -is_retrain True
 ```
 
 ### References
-["Corner case data description and detection"](https://arxiv.org/abs/2101.02494) \
+["Corner case data description and detection"](https://ieeexplore.ieee.org/abstract/document/9474385) \
 ["Guiding Deep Learning System Testing using Surprise Adequacy"](https://arxiv.org/abs/1808.08444)\
 ["DeepFool: a simple and accurate method to fool deep neural networks"](https://arxiv.org/abs/1511.04599)
